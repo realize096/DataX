@@ -41,7 +41,7 @@
         <dependency>
             <groupId>org.apache.hbase</groupId>
             <artifactId>hbase</artifactId>
-            <version>0.94.27</version>
+            <version>0.95.0</version>
             <exclusions>
                 <exclusion>
                     <artifactId>jdk.tools</artifactId>
@@ -57,7 +57,7 @@
         <dependency>
             <groupId>org.apache.zookeeper</groupId>
             <artifactId>zookeeper</artifactId>
-            <version>3.3.2</version>
+            <version>3.7.2</version>
         </dependency>
         <dependency>
             <groupId>commons-codec</groupId>
