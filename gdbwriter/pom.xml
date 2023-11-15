@@ -16,7 +16,7 @@
 	  <properties>
 	    	<maven.compiler.target>1.8</maven.compiler.target>
 	    	<maven.compiler.source>1.8</maven.compiler.source>
-        <gremlin.version>3.4.1</gremlin.version>
+        <gremlin.version>3.5.5</gremlin.version>
 	  </properties>
 
     <dependencies>
